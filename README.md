@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jonas Driessen
+# 👋 Hi, I'm Jonas Driessen
 
 ## 🎮 Unity Game Developer
 
@@ -10,6 +10,7 @@
 - Unity Engine
 - C# Programming
 - Game Design & Level Design
+- Working efficiently in a team
 
 ### 🕹️ Learn more about me and what i make!
 
@@ -17,4 +18,6 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDriessen0&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDriessen0&show_icons=true&theme=radical&include_all_commits=true&combine_all_yearly_contributions=true)
+
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=JonasDriessen0&theme=radical)
